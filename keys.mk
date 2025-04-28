@@ -1,1 +1,1 @@
-PRODUCT_DEFAULT_DEV_CERTIFICATE := vendor/orion-priv/keys/releasekey
+PRODUCT_DEFAULT_DEV_CERTIFICATE := vendor/horizon-priv/keys/releasekey
